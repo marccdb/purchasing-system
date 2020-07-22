@@ -1,0 +1,12 @@
+D:\dotNet\ExercEnum\ExercEnum\bin\Debug\netcoreapp3.1\PurchasingSystem.exe
+D:\dotNet\ExercEnum\ExercEnum\bin\Debug\netcoreapp3.1\PurchasingSystem.deps.json
+D:\dotNet\ExercEnum\ExercEnum\bin\Debug\netcoreapp3.1\PurchasingSystem.runtimeconfig.json
+D:\dotNet\ExercEnum\ExercEnum\bin\Debug\netcoreapp3.1\PurchasingSystem.runtimeconfig.dev.json
+D:\dotNet\ExercEnum\ExercEnum\bin\Debug\netcoreapp3.1\PurchasingSystem.dll
+D:\dotNet\ExercEnum\ExercEnum\bin\Debug\netcoreapp3.1\PurchasingSystem.pdb
+D:\dotNet\ExercEnum\ExercEnum\obj\Debug\netcoreapp3.1\PurchasingSystem.AssemblyInfoInputs.cache
+D:\dotNet\ExercEnum\ExercEnum\obj\Debug\netcoreapp3.1\PurchasingSystem.AssemblyInfo.cs
+D:\dotNet\ExercEnum\ExercEnum\obj\Debug\netcoreapp3.1\PurchasingSystem.csproj.CoreCompileInputs.cache
+D:\dotNet\ExercEnum\ExercEnum\obj\Debug\netcoreapp3.1\PurchasingSystem.dll
+D:\dotNet\ExercEnum\ExercEnum\obj\Debug\netcoreapp3.1\PurchasingSystem.pdb
+D:\dotNet\ExercEnum\ExercEnum\obj\Debug\netcoreapp3.1\PurchasingSystem.genruntimeconfig.cache
